@@ -1,0 +1,164 @@
+header{
+    color: #000;
+    background-color:#fff;
+    height:12%;
+    width: 100%;
+    padding-top: 40px;
+    text-align: justify;
+    display: block;
+    margin-left: 12%;
+    font: TimesNewRoman;
+    
+}
+
+.selection{
+    background-color: #fff;
+    color: #000;
+    border: none;
+    margin-left: 50px;
+    font :TimesNewRoman;
+    
+}
+header a{
+    margin-left: 50px;
+}
+.selection:hover{
+   color: red;
+   background-color: #fff;
+}
+
+.container{
+    color: #000;
+    background-color:#fff;
+    width: 50%;
+    text-align: justify;
+    display: block;
+    margin-left: 10%;
+   }
+   .container img{
+       width: 49%;
+       margin-left: 0%;
+   }
+   main img{
+       width:   50%;
+       height:  40%;
+       float: center;
+       margin-left: 10%;
+   }
+   .advertise{
+       width: 50%;
+       margin-left: 10%;
+       margin-top: 4%;
+       background-color: whitesmoke;
+       padding: 2%;
+   }
+.advertise img {
+width: 28%;
+height: 25%;
+padding: 2%;
+margin: 0%;
+}
+   a{
+       text-decoration: none;
+       color: #000;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       margin: 10px;
+   }
+   a:hover{
+       color: red;
+   }
+   a:active{
+       color: green;
+
+   }
+   .container button{
+       width: fit-content;
+       height: 25px;
+       color: #000;
+       background-color: #fff;
+       border-style: ridge;
+       border-color: whitesmoke;
+       margin: 4px;
+   }
+   .container button:hover{
+    background-color: red;
+    color: #fff;
+    border: none;
+
+   }
+   button{
+       background-color: #fff;
+       color: red;
+       width: 100%;
+       height: 35px;
+       margin-top: 10px;
+   }
+   button:hover{
+       background-color: red;
+       color: #fff;
+   }
+ 
+
+.my-form{
+    margin: 20px;
+    padding-top: 40px;
+    padding: 20px;
+    background-color: whitesmoke;
+    width: 51%;
+    height: 45%;
+    margin-left: 10%;
+    text-align: center;
+}
+.my-form input{
+    height: 35px;
+    width: 45%;
+    padding: 20px;
+    margin-right: 25px;
+    margin-top: 5%;
+   float:center;
+}
+
+aside{
+   
+    color: #000;
+    width: 20%;
+    float: right;
+    margin-right: 12%; 
+    text-align: justify;
+    margin-top: 10%;
+}
+.categories{
+    background-color: whitesmoke;
+    padding: 30px;
+    padding-top: 0%;
+}
+.newsletter{
+    background-color: whitesmoke;
+    padding: 30px;
+    padding-top: 0%;
+}
+.stories{
+    background-color: whitesmoke;
+    padding: 30px;
+    padding-top: 0%;
+}
+.insta{
+    margin-top: 15%;
+}
+aside img{
+    height: 90px;
+    width: 90px;
+    padding: 3px;
+    margin: 0px;
+}
+
+
+footer{
+    display: block;
+    width: 100%;
+    height: 15%;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 2%;
+
+}
